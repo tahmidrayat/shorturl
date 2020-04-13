@@ -1,9 +1,9 @@
 # Short Url
 ### [+] Created By HTR-TECH (@***tahmid.rayat***)
 ### [+] Disclaimer :
-***Short Url is a tool to short url in Termux.This tool uses [TinyURL](https://tinyurl.com/)'s Api. It is created for Educational Purpose only.***
+***Short Url is a tool to short url.This tool uses [TinyURL](https://tinyurl.com/)'s Api. It is created for Educational Purpose only.***
 
-<img src="https://i.ibb.co/kK1Mtz4/shorturl.jpg" alt="" border="0" />
+<img src="https://i.ibb.co/LgYj0xT/shorturl.png" alt="" border="0" />
 
 ### [+] Installation
 ```apt update```
